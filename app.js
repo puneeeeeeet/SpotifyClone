@@ -9,12 +9,12 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs =[
-    {songName:"Bones", filePath: "songs/1.mp3", coverPath:"covers/1.jpeg"},
-    {songName:"Akhiyaan-Mitraz", filePath: "songs/2.mp3", coverPath:"covers/2.jpeg"},
-    {songName:"Humsafar", filePath: "songs/3.mp3", coverPath:"covers/3.jpeg"},
-    {songName:"Ghumshuda", filePath: "songs/1.mp3", coverPath:"covers/1.jpeg"},
-    {songName:"JeenaJeena", filePath: "songs/2.mp3", coverPath:"covers/2.jpeg"},
-    {songName:"Jogi", filePath: "songs/3.mp3", coverPath:"covers/3.jpeg"},
+    {songName:"Bones", filePath: "songs/1.mp3", coverPath:"covers/1.jpg"},
+    {songName:"Akhiyaan-Mitraz", filePath: "songs/2.mp3", coverPath:"covers/2.jpg"},
+    {songName:"Humsafar", filePath: "songs/3.mp3", coverPath:"covers/3.jpg"},
+    {songName:"Ghumshuda", filePath: "songs/1.mp3", coverPath:"covers/4.jpg"},
+    {songName:"JeenaJeena", filePath: "songs/2.mp3", coverPath:"covers/5.jpg"},
+    {songName:"Jogi", filePath: "songs/3.mp3", coverPath:"covers/6.jpg"},
 
 ]
 
